@@ -12,7 +12,7 @@
                   <key>kind</key>
                   <string>software-package</string>
                   <key>url</key>
-                  <string>http://www.gonghuizhudi.com/lygw/lvyouguwen.ipa</string>
+                  <string>http://www.gonghuizhudi.com/lanlingdai/lanlingdai.ipa</string>
               </dict> 
                              
               <dict>
@@ -21,7 +21,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>http://www.gonghuizhudi.com/lygw/lygw.jpg</string>
+                    <string>http://www.gonghuizhudi.com/lanlingdai/lanlingdai.png</string>
                 </dict>
 
                 <dict>
@@ -30,7 +30,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>http://www.gonghuizhudi.com/lygw/lygw.jpg</string>
+                    <string>http://www.gonghuizhudi.com/lanlingdai/lanlingdai.png</string>
                 </dict>
            </array>
             
